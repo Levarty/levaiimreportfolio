@@ -1,0 +1,222 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+  font-size: large;
+  background-color: #F9FDFF;
+}
+.nav a {
+  float: left;
+  width: 25%;
+  text-align: center;
+  text-decoration: none;
+  padding: 25px;
+  font-size: 17px;
+  background-color: black;
+  color: white;
+}
+
+.nav a:hover {
+  background-color: gray;
+  color: black;
+}
+
+.nav a.active {
+  background-color: green;
+  color: white;
+}
+
+.Bemutatkozo{
+   font-weight: 700;
+  font-size: 25px;
+  text-transform: uppercase;
+  margin-bottom:10px;
+  margin-top:10px;
+}
+.resume .resume-right{
+   position: absolute;
+   top: 10%;
+   left: 25%;
+}
+.resume .resume-left{
+    position: absolute;
+    top: 15%;
+    left: 0;
+}
+.nev .szoveg{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 10px;
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+  font-size: large;
+  background-color: #F9FDFF;
+    line-height: 20px;
+
+}
+.nav a {
+  float: left;
+  width: 25%;
+  text-align: center;
+  text-decoration: none;
+  padding: 25px;
+  font-size: 17px;
+  background-color: black;
+  color: white;
+}
+
+.nav a:hover {
+  background-color: gray;
+  color: black;
+}
+
+.nav a.active {
+
+  background-color: green;
+  color: white;
+  }
+.bold{
+  font-weight: 700;
+  font-size: 25px;
+  text-transform: uppercase;
+  margin-bottom:10px;
+  margin-top:10px;
+}
+.semi-bold{
+    margin-top:10px;
+}
+  
+  table{
+    padding: 10px;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 1em auto;
+    vertical-align: auto;
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+  font-size: large;
+  background-color: #F9FDFF;
+  line-height: 20px;
+}
+.nav a {
+  float: left;
+  width: 25%;
+  text-align: center;
+  text-decoration: none;
+  padding: 25px;
+  font-size: 17px;
+  background-color: black;
+  color: white;
+}
+
+.nav a:hover {
+  background-color: gray;
+  color: black;
+}
+
+.nav a.active {
+  background-color: green;
+  color: white;
+  }
+  
+.bold {
+  font-weight: 700;
+  font-size: 25px;
+  text-transform: uppercase;
+  margin-bottom:10px;
+  margin-top:10px;
+}
+.semi-bold {
+  font-weight: 500;
+  font-size: 20px;
+  font-style: italic;
+}
+.resume .resume-left {
+  width: 280px;
+}
+.resume .resume-right {
+  width: 520px;
+  padding: 25px;
+  background: white;
+}
+.resume .resume-right{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.resume .resume-left{
+    position: absolute;
+    top: 10%;
+    left: 0;
+}
+.resume .resume-extra-right{
+    position: absolute;
+    top:10%;
+    right:0%;
+}
+.resume .resume-right ul li .date {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+.resume .resume-right ul li .info {
+  margin-bottom: 20px;
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+  font-size: large;
+  background-color: #F9FDFF;
+}
+.nav a {
+  float: left;
+  width: 25%;
+  text-align: center;
+  text-decoration: none;
+  padding: 25px;
+  font-size: 17px;
+  background-color: black;
+  color: white;
+}
+
+.nav a:hover {
+  background-color: gray;
+  color: black;
+}
+
+.nav a.active {
+
+  background-color: green;
+  color: white;
+  }
+
+table{
+    padding: 10px;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 1em auto;
+    vertical-align: auto;
+}
+.bold{  
+  font-weight: 700;
+  font-size: 25px;
+  text-transform: uppercase;
+  margin-bottom:10px;
+  margin-top:10px;
+}
